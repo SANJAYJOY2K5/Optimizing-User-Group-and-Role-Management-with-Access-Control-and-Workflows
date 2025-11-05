@@ -23,14 +23,11 @@ The initiative aims to improve **security**, **compliance**, and **operational e
 Introduces the project scope, stakeholders, and objectives.  
 Focuses on familiarizing the team with existing ServiceNow configurations and preparing the foundation for execution.
 
-📄 *[Induction Phase PDF](./ServiceNow_User_Group_Role_Optimization_Induction_Phase.pdf)*
 
 ---
 
 ### 2. **Requirement Analysis**
 Captures business, functional, and non-functional requirements for optimizing user, group, and role management.
-
-📄 *[Requirement Analysis PDF](./ServiceNow_User_Group_Role_Optimization_Requirement_Analysis.pdf)*
 
 ---
 
@@ -38,7 +35,6 @@ Captures business, functional, and non-functional requirements for optimizing us
 Defines the architecture, data flow, and workflow automation logic within ServiceNow.  
 Covers RBAC design, ACL rules, and integration blueprints.
 
-📄 *[Design Phase PDF](./ServiceNow_User_Group_Role_Optimization_Final_Design_Phase.pdf)*
 
 ---
 
@@ -46,14 +42,11 @@ Covers RBAC design, ACL rules, and integration blueprints.
 Configuration and development within ServiceNow using **Flow Designer**, **ACLs**, and **Business Rules**.  
 Includes role restructuring, workflow creation, and security settings configuration.
 
-📄 *[Project Phase PDF](./ServiceNow_User_Group_Role_Optimization_Project.pdf)*
 
 ---
 
 ### 5. **Performance and Testing Phase**
 Validates system reliability, scalability, and compliance through structured testing methods such as **unit**, **integration**, **UAT**, and **performance testing**.
-
-📄 *[Performance & Testing PDF](./ServiceNow_User_Group_Role_Optimization_Performance_Testing.pdf)*
 
 ---
 
@@ -91,17 +84,6 @@ The final solution is deployed to production with structured change management, 
 
 ---
 
-## 📂 Repository Structure
-```
-├── docs/
-│   ├── ServiceNow_User_Group_Role_Optimization_Induction_Phase.pdf
-│   ├── ServiceNow_User_Group_Role_Optimization_Requirement_Analysis.pdf
-│   ├── ServiceNow_User_Group_Role_Optimization_Final_Design_Phase.pdf
-│   ├── ServiceNow_User_Group_Role_Optimization_Project.pdf
-│   ├── ServiceNow_User_Group_Role_Optimization_Performance_Testing.pdf
-│
-├── README.md
-└── LICENSE
 ```
 
 ---
